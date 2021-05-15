@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family:fantasy;
+    background:linear-gradient(yellow 0%,red 30%,white 50%,cyan 100%);
+    font-weight:bold;
+}
+.line {
+    height: 20px;
+    background-color:black; 
+}
+#a {
+    height:500px;
+    width:500px;
+}
+#b {
+    height:500px;
+    width:500px;
+}
+#c {
+    height:500px;
+    width:500px;
+}
+#d {
+    height:500px;
+    width:500px;
+}
+.line {
+    height:50px;
+    background-color: bisque;
+}
